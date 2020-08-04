@@ -1,7 +1,7 @@
 # Proffy - NLW2
-> Projetando uma plataforma de estudos online na #NLW2
+> Projetando uma plataforma de estudos online na #NLW2, utilizando o conceito <strong>Mobile First</strong>, onde o foco inicial da arquitetura e desenvolvimento é direcionado aos dispositivos móveis e em seguida para os desktops.
 
-Quer ver como ta ficando? Acesse a DEMO: 
+Quer ver como ta ficando? Acesse a DEMO: https://proffy-nlw-2.vercel.app/
 
 <a href="https://github.com/omariosouto/flappy-bird-devsoutinho/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK"></a>
 
